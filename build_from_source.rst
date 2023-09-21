@@ -160,8 +160,8 @@ If you are intending to use the Python library only, please skip to :ref:`Test t
 
   **3.a** Download the following files to a folder, and navigate into it:
 
-  - :download:`CMakeLists.txt<CMakeLists.txt>` 
-  - :download:`test_install.cpp<test_install.cpp>` 
+  - :download:`CMakeLists.txt</resources/code/CMakeLists.txt>` 
+  - :download:`test_install.cpp</resources/code/test_install.cpp>` 
 
   .. code-block:: text
 
@@ -242,7 +242,7 @@ You should see the output of:
   **4.a** Download the file below and save it.
   Navigate to the directory where it is saved.
   
-  - :download:`test_install.py<test_install.py>` 
+  - :download:`test_install.py</resources/code/test_install.py>` 
 
   .. code-block:: text
 
@@ -268,3 +268,4 @@ You should see the output of:
 .. container:: dothis
 
   **4.c** Go and have a cuppa, you're done!
+  
